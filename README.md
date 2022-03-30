@@ -8,15 +8,13 @@
 - [ ] Week 5 - Eigenvalues and Eigenvectors: Application to Data Problems.
      
 **Course 2 - Multivariate Calculus**
-- [ ] Week 1
-- [ ] Week 2
-- [ ] Week 3
-- [ ] Week 4
-- [ ] Week 5
+- [ ] Week 1 - What is Calculus?
+- [ ] Week 2 - Multivariate Calculus.
+- [ ] Week 3 - Multivariate Chain Rule and its Applications.
+- [ ] Week 4 - Taylor Series and Linearisation.
 
 **Course 3 - PCA**
-- [ ] Week 1
-- [ ] Week 2
-- [ ] Week 3
-- [ ] Week 4
-- [ ] Week 5    
+- [ ] Week 1 - Statistics of Datasets.
+- [ ] Week 2 - Inner Products.
+- [ ] Week 3 - Orthogonal Projections
+- [ ] Week 4 - Principal Component Analysis
