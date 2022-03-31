@@ -7,13 +7,15 @@
 - [x] Week 4 - Matrices make linear mappings.
 - [ ] Week 5 - Eigenvalues and Eigenvectors: Application to Data Problems.
      
+     
 - **2 - Multivariate Calculus**
 - [ ] Week 1 - What is Calculus?
 - [ ] Week 2 - Multivariate Calculus.
 - [ ] Week 3 - Multivariate Chain Rule and its Applications.
 - [ ] Week 4 - Taylor Series and Linearisation.
 
-- **3 - PCA**
+
+- **3 - Principal Component Analysis**
 - [ ] Week 1 - Statistics of Datasets.
 - [ ] Week 2 - Inner Products.
 - [ ] Week 3 - Orthogonal Projections
